@@ -1,0 +1,7 @@
+base   authmkpop3
+author moto kawasaki
+email  moto@kawasaki3.org
+date   2013-04-25
+name   auth plugin
+desc   Provides authentication against POP3
+url    https://forum.dokuwiki.org/post/38742
