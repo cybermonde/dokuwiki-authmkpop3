@@ -3,6 +3,8 @@ dokuwiki-authmkpop3
 
 DokuWiki - Provides authentication against POP3
 
+Install first *php5-imap*
+
 Modify your *conf/local.php* :
 
 >$conf['authtype'] = 'authmkpop3';<br />
