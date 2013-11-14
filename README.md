@@ -17,3 +17,5 @@ Create users
 - create a script to generate a *conf/users.auth.php*
 
 Source : https://forum.dokuwiki.org/post/38742
+
+Tested under : Release 2013-05-10a "Weatherwax"
